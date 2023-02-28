@@ -1,0 +1,9 @@
+intents:
+  - greet
+  - goodbye
+  - thanks
+  - math_operation
+
+entities:
+  - operation
+  - number
